@@ -1,0 +1,70 @@
+<annotation>
+    <folder>savefolder</folder>
+    <filename>FudanPed00045_horflip_.jpg</filename>
+    <path>C:\Users\boltuzamaki\Desktop\Image detection augumentation\data test\savefolder\FudanPed00045_horflip_.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>['487']</width>
+        <height>['538']</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>208</xmin>
+            <ymin>196</ymin>
+            <xmax>282</xmax>
+            <ymax>484</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>93</xmin>
+            <ymin>187</ymin>
+            <xmax>173</xmax>
+            <ymax>506</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>26</xmin>
+            <ymin>201</ymin>
+            <xmax>86</xmax>
+            <ymax>505</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>347</xmin>
+            <ymin>198</ymin>
+            <xmax>396</xmax>
+            <ymax>347</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>317</xmin>
+            <ymin>195</ymin>
+            <xmax>350</xmax>
+            <ymax>321</ymax>
+        </bndbox>
+    </object>
+</annotation>

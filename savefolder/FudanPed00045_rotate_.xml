@@ -1,0 +1,70 @@
+<annotation>
+    <folder>savefolder</folder>
+    <filename>FudanPed00045_rotate_.jpg</filename>
+    <path>C:\Users\boltuzamaki\Desktop\Image detection augumentation\data test\savefolder\FudanPed00045_rotate_.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>['487']</width>
+        <height>['538']</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>205</xmin>
+            <ymin>196</ymin>
+            <xmax>279</xmax>
+            <ymax>484</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>314</xmin>
+            <ymin>187</ymin>
+            <xmax>394</xmax>
+            <ymax>506</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>401</xmin>
+            <ymin>201</ymin>
+            <xmax>461</xmax>
+            <ymax>505</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>91</xmin>
+            <ymin>198</ymin>
+            <xmax>140</xmax>
+            <ymax>347</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>137</xmin>
+            <ymin>195</ymin>
+            <xmax>170</xmax>
+            <ymax>321</ymax>
+        </bndbox>
+    </object>
+</annotation>
